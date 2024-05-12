@@ -13,3 +13,5 @@ put target web and click start attack button
 mybe show few ads
 
 very important: attack webpage must active dont change browser tab 
+
+if you active other tab in browser ddos get stopped
