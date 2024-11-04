@@ -18,5 +18,5 @@ very important: attack webpage must active in background dont change browser tab
 
 if you active other tab in browser  the attack  stops
 # Please do not use for sabotage purposes Thank you
-# instagram:@mazi_.2023
+# instagram:@mazi_.23
 # بلوشی و افتخر 
