@@ -125,7 +125,7 @@
                 if (queue.length >= CONCURRENCY_LIMIT) {
                     await queue.shift();
                 }
-                var rand = i % 3 === 0 ? '' : ('?' + Math.random() * 20000);
+                var rand = i % 3 === 0 ? '' : ('?' + Math.random() * 25000);
                 queue.push(
                     fetchWithTimeout(target + rand, { timeout: 1000 })
                         .catch((error) => {
