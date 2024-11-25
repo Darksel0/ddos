@@ -1,4 +1,4 @@
-# powerfull ddos tool CAN BYPASS  A LOT OF ANTI-DDOS WEBSITE
+# powerfull online ddos tool can down website in 10 sec
 
 its very powerfull 
 
